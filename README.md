@@ -16,7 +16,7 @@
   
 <div>
 <img align="left" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XAdvitya&layout=compact&hide=html,jupyter notebook&theme=tokyonight">
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xAdvitya&?count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </div>
 
