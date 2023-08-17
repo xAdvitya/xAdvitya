@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xadvitya&label=Profile%20views&color=0e75b6&style=flat" alt="xadvitya" /> </p>
 
-- 🔭 I’m currently working on **a Web app made with SpringBoot and Next.js**
+- 🔭 I’m currently working on **Urbanize**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript, GraphQl and Next.js**
 
 - 💬 Ask me about **react**
 
